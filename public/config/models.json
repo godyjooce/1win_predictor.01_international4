@@ -1,0 +1,18 @@
+{
+  "models": [
+    {
+      "id": "gemini-2.0-flash",
+      "name": "ViOracle 1W Safe",
+      "provider": "ViOracle",
+      "providerId": "google",
+      "enabled": true,
+      "toolCallType": "manual",
+      "description": "A balanced model optimized for safety and reliability in predictions. Good for general use.",
+      "tags": ["popular", "fast"],
+      "performance": {
+        "accuracy": "High",
+        "speed": "Very Fast"
+      } 
+    }
+  ] 
+} 
